@@ -27,4 +27,7 @@ Fill Start Date
         Keyboard Key    press    ${number}
     END
 
-    Sleep    5s
+    Sleep   5s
+
+Submmit Enroll Form 
+    Click    css=button >> text=Salvar
